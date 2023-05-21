@@ -1,14 +1,21 @@
-<!--<a href=""><img alt="" src=""></a>-->
+<!-- 🟥 SMALL SHIELD/BADGE USED IN THIS DOCUMENT 🟥 -->
+<!-- https://shields.io/ - Basic and original shields (icons name https://simpleicons.org/) -->
+<!-- https://wakatime.com/share/badges - Wakatime -->
+<!-- https://github.com/gitlimes/discord-md-badge - Small badge Discord status (also works for servers) -->
+<!-- https://github.com/DenverCoder1/custom-icon-badges - More icons and upload your icons -->
+<!-- https://github.com/antonkomarev/github-profile-views-counter - Profile views -->
+<!-- Timestamp in shield.io: https://github.com/badges/shields/issues/749-->
+<!-- How to make a shield.io badge with just a logo in the left side?: https://stackoverflow.com/questions/62155899/how-to-make-a-shield-io-badge-with-just-a-logo-in-the-left-side/63705827#63705827 -->
 
-<h2 style="display:flex; align-items: center;">
+<h2>
   <span>Hi there</span>
-  <img style="margin-left:5px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
+  <!-- Microsoft animated emojis: https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
 </h2>
 
 <p align=center>
-<a href=""><img alt="Timestamp Working" src="https://custom-icon-badges.demolab.com/date/1633093200?colorB=42b883&label=working&logo=computer&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/cabos-manuel/"><img alt="Timestamp Working" src="https://custom-icon-badges.demolab.com/date/1633093200?colorB=42b883&label=working&logo=computer&logoColor=white"></a>
 <a href="https://wakatime.com/@9e0548e0-ba44-4650-b0f1-5ece84453209"><img alt="Wakatime" src="https://wakatime.com/badge/user/9e0548e0-ba44-4650-b0f1-5ece84453209.svg"></a>
-<img alt="Age" src="https://custom-icon-badges.demolab.com/badge/age-22-green?logo=person-fill"></a>
 <a href="https://platzi.com/p/CabosManuel"><img alt="Platzi" src="https://img.shields.io/badge/Platzi-@CabosManuel-09e989?logo=platzi&logoColor=09e989"></a>
 <a href="https://codepen.io/cabosmanuel"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black"></a>
 </p>
@@ -21,10 +28,12 @@
 </kbd>
 </p>
 
-<!-- RIGHT IMAGE #################################################### -->
-<img align=right alt="Discord presence" src="https://discord-readme-badge.vercel.app/api?id=295729338933051404">
+<!-- RIGHT CONTENT DISCORD PRESENCE --------------- -->
+<!-- https://github.com/Zyplos/discord-readme-badge -->
+<a href="https://discordapp.com/users/295729338933051404"><img align=right alt="Discord presence" src="https://discord-readme-badge.vercel.app/api?id=295729338933051404"></a>
 
-<!-- LEFT TEXT ###################################################### -->
+
+<!-- LEFT CONTENT TEXT ---------------------------- -->
 <!-- Currently working ============================================ -->
 ### 🔭 I’m currently working on **[Avatar Global](https://www.linkedin.com/company/avatar-global/posts/?feedView=all)**
 - Backend, frontend and development maintenance for an Ecommerce store.
@@ -32,84 +41,76 @@
 - Getting started with Magento 2, store setup and configurations.
 
 <!-- Skills ======================================================= -->
-<h3>👨‍💻 Skills ...</h3>
-<span>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-e96228.svg?logo=git&logoColor=white"></a>
-	<a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-0d1117.svg?logo=github&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Aphp"><img alt="DB2" src="https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Aphp"><img alt="IBM HCL Commerce 8" src="https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Ajava&type=repositories"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ed2025.svg?logo=java&logoColor=white"></a>
-	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00"></a>
-	<a href="https://drive.google.com/file/d/1AUhKRU0Saz4F4Kh2_8qX1B-y1Inea0md/view?usp=sharing"><img alt="SCRUM" src="https://custom-icon-badges.demolab.com/badge/SCRUM-10697c.svg?logo=project&logoColor=white"></a>
-	<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white"></a>
-	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white"></a>
-</span>
+### 👨‍💻 Skills ...
+- #### 💻 Languages and Framework
+  [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acss)
+  [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ahtml)
+  [![Java](https://custom-icon-badges.demolab.com/badge/Java-ed2025.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajava&type=repositories)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories)
+  [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
+  [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
+  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ASammwyy1+language%3Asql)
 
-> 🧰 **Tools**
->
-> [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](#)
-> [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?logo=openai&logoColor=white)](#)
-> [![Dbeaver](https://custom-icon-badges.demolab.com/badge/Dbeaver-51afb5.svg?logo=dbeaver&labelColor=836d5e)](#)
-> [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](#)
-> [![Eclipse](https://img.shields.io/badge/Eclipse-2b1e52.svg?logo=eclipse&logoColor=2b1e52&labelColor=orange)](#)
-> [![Figma](https://img.shields.io/badge/Figma-e6491c.svg?logo=figma&logoColor=white)](#)
-> [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
-> [![Insomnia](https://img.shields.io/badge/Insomnia-5700ce.svg?logo=insomnia&logoColor=white)](#)
-> [![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black)](#)
-> [![Photoshop](https://custom-icon-badges.demolab.com/badge/Photoshop-00bff2.svg?logo=photoshop)](#)
-> [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-> [![Virtual Box](https://img.shields.io/badge/Virtual_Box-1c3b62.svg?logo=virtualbox&logoColor=white)](#)
-> [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+- #### 🧰 Tools
+  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+  [![Git](https://img.shields.io/badge/Git-e96228.svg?logo=git&logoColor=white)](#)
+  [![Github](https://img.shields.io/badge/Github-0d1117.svg?logo=github&logoColor=white)](https://github.com/CabosManuel)
+  [![DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white)](#)
+  [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#)
+  [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#)
+  [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories)
+  [![SCRUM](https://custom-icon-badges.demolab.com/badge/SCRUM-10697c.svg?logo=project&logoColor=white)](https://drive.google.com/file/d/1AUhKRU0Saz4F4Kh2_8qX1B-y1Inea0md/view?usp=sharing)
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white)](#)
 
-<!--ul>
-	<li>🧰 Tools</li>
-	<span>
-		<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-		<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-		<a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-70a597.svg?logo=openai&logoColor=white"></a>
-		<a href="#"><img alt="Clip Studio Paint" src="https://custom-icon-badges.demolab.com/badge/Clip%20Studio%20Paint-757679.svg?logo=clip-studio-paint"></a>
-		<a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/Dbeaver-51afb5.svg?logo=dbeaver&labelColor=836d5e"></a>
-		<a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-		<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2b1e52.svg?logo=eclipse&logoColor=2b1e52&labelColor=orange"></a>
-		<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-e6491c.svg?logo=figma&logoColor=white"></a>
-		<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-		<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5700ce.svg?logo=insomnia&logoColor=white"></a>
-		<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black"></a>
-		<a href="#"><img alt="Photoshop" src="https://custom-icon-badges.demolab.com/badge/Photoshop-00bff2.svg?logo=photoshop"></a>
-		<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-		<a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/Virtual_Box-1c3b62.svg?logo=virtualbox&logoColor=white"></a>
-		<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	</span>
-</ul-->	
+- #### 🔧 Applications
+  [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories)
+  [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?logo=openai&logoColor=white)](#)
+  [![Dbeaver](https://custom-icon-badges.demolab.com/badge/Dbeaver-51afb5.svg?logo=dbeaver&labelColor=836d5e)](#)
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/295729338933051404)
+  [![Eclipse](https://img.shields.io/badge/Eclipse-2b1e52.svg?logo=eclipse&logoColor=2b1e52&labelColor=orange)](#)
+  [![Figma](https://img.shields.io/badge/Figma-e6491c.svg?logo=figma&logoColor=white)](#)
+  [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
+  [![Insomnia](https://img.shields.io/badge/Insomnia-5700ce.svg?logo=insomnia&logoColor=white)](#)
+  [![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black)](#)
+  [![Photoshop](https://custom-icon-badges.demolab.com/badge/Photoshop-00bff2.svg?logo=photoshop)](#)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+  [![Virtual Box](https://img.shields.io/badge/Virtual_Box-1c3b62.svg?logo=virtualbox&logoColor=white)](#)
+  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 
 <!-- Currently learning ========================================= -->
-<h4>🌱 I’m currently learning ...</h4>
+<h3>🌱 I’m currently learning ...</h3>
 <p>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href=""><img src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white"></a>
-	<a href=""><img src="https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
-	<a href="https://github.com/search?q=user%3ACabosManuel+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<kbd>
+  <a href="#"><img src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
+  <!--
+  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Anode&type=repositories"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
+  -->
+  <a href="https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <!--<a href="https://github.com/search?q=user%3ACabosManuel+language%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
+</kbd>
 </p>
 
----
-
-<p align=right>
-<a href="#"><img alt="Steam" src="https://img.shields.io/badge/Steam-KbossMC-gray.svg?logo=steam&labelColor=003a91"></a>
-<a href="#"><img alt="Rocket League" src="https://custom-icon-badges.demolab.com/badge/Rocket_League-Diamond_II-23d6f2.svg?logo=rocket-league&labelColor=003a91"></a>
-<a href="#"><img alt="Apex Legends" src="https://custom-icon-badges.demolab.com/badge/Apex_Legends-Bronze-674d39.svg?logo=apex&labelColor=black"></a>
-<a href="#"><img alt="Minecraft" src="https://custom-icon-badges.demolab.com/badge/Minecraft-825c3f.svg?logo=minecraft-block&labelColor=4e9c32"></a>
-</p>
+<!-- Games -->
+<!--
+<span>
+<a href="#"><img alt="Rocket League" align=right src="https://custom-icon-badges.demolab.com/badge/Rocket_League-Diamond_II-23d6f2.svg?logo=rocket-league&labelColor=003a91"></a>
 <br>
+<a href="#"><img alt="Apex Legends" align=right src="https://custom-icon-badges.demolab.com/badge/Apex_Legends-Bronze-674d39.svg?logo=apex&labelColor=black"></a>
+<br>
+<a href="#"><img alt="Minecraft" align=right src="https://custom-icon-badges.demolab.com/badge/Minecraft-825c3f.svg?logo=minecraft-block&labelColor=4e9c32"></a>
+</span>
+-->
 
 <!-- PROFILE VIEWS ################################################## -->
 <p align=center>
-	<img alt="Profile views" src="https://komarev.com/ghpvc/?username=CabosManuel&color=42b883">
-	<a href="https://ko-fi.com/kbossmc"><img alt="Ko-fi" src="https://img.shields.io/badge/buy_me_a_coffee-ff5f5f?logo=ko-fi&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CabosManuel&color=42b883">
+  <a href="https://ko-fi.com/kbossmc"><img alt="Ko-fi" src="https://img.shields.io/badge/buy_me_a_coffee-ff5f5f?logo=ko-fi&logoColor=white"></a>
 </p>
+
+<!-- Tricks Github README -->
+<!-- https://notes.aliciasykes.com/36402/github-markdown-tricks -->
+<!-- https://grantwinney.com/cool-markdown-tricks-for-github/ -->
