@@ -23,7 +23,7 @@
 <p align=center>
 <kbd>
 <a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"></a>
-<a href="https://twitter.com/kboss_mc"><img alt="Twitter" src="https://img.shields.io/badge/%40kboss__mc-1DA1F2?logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/CabosManuel"><img alt="Twitter" src="https://img.shields.io/badge/%40CabosManuel-1DA1F2?logo=twitter&logoColor=white"></a>
 <a href="https://discordapp.com/users/295729338933051404"><img alt="Discord shield status" src="https://dcbadge.vercel.app/api/shield/295729338933051404?style=flat&theme=discord-inverted"></a>
 </kbd>
 </p>
