@@ -49,6 +49,7 @@
   [![Java](https://custom-icon-badges.demolab.com/badge/Java-ed2025.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajava&type=repositories)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories)
   [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
+  [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories)
   [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ASammwyy1+language%3Asql)
 
@@ -60,6 +61,7 @@
   [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#)
   [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories)
+  [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#)
   [![SCRUM](https://custom-icon-badges.demolab.com/badge/SCRUM-10697c.svg?logo=project&logoColor=white)](https://drive.google.com/file/d/1AUhKRU0Saz4F4Kh2_8qX1B-y1Inea0md/view?usp=sharing)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white)](#)
 
@@ -82,15 +84,11 @@
 <h3>🌱 I’m currently learning ...</h3>
 <p>
 <kbd>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a>
   <a href="#"><img src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
-  <!--
-  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Anode&type=repositories"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
-  -->
-  <a href="https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <!--<a href="https://github.com/search?q=user%3ACabosManuel+language%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
 </kbd>
 </p>
 
