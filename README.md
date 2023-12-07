@@ -84,8 +84,8 @@
 <h3>🌱 I’m currently learning ...</h3>
 <p>
 <kbd>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
