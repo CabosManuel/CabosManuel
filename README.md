@@ -110,6 +110,10 @@
   <a href="https://ko-fi.com/kbossmc"><img alt="Ko-fi" src="https://img.shields.io/badge/buy_me_a_coffee-ff5f5f?logo=ko-fi&logoColor=white"></a>
 </p>
 
+<!-- Wakatime Graphs -->
+![Wakatime Coding Activity Graph](https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png#gh-dark-mode-only)
+![Wakatime Coding Activity Graph](https://wakatime.com/share/@CabosManuel/85a69cf1-70c1-4d51-b1f7-972c379d4d10.png#gh-light-mode-only)
+
 <!-- Tricks Github README -->
 <!-- https://notes.aliciasykes.com/36402/github-markdown-tricks -->
 <!-- https://grantwinney.com/cool-markdown-tricks-for-github/ -->
