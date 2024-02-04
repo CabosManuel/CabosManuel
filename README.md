@@ -15,7 +15,7 @@
 
 <p align=center>
 <a href="https://www.linkedin.com/in/cabos-manuel/"><img alt="Timestamp Working" src="https://custom-icon-badges.demolab.com/date/1633093200?colorB=42b883&label=working&logo=computer&logoColor=white"></a>
-<a href="https://wakatime.com/@9e0548e0-ba44-4650-b0f1-5ece84453209"><img alt="Wakatime" src="https://wakatime.com/badge/user/9e0548e0-ba44-4650-b0f1-5ece84453209.svg"></a>
+<a href="https://wakatime.com/@CabosManuel"><img alt="Wakatime" src="https://wakatime.com/badge/user/9e0548e0-ba44-4650-b0f1-5ece84453209.svg"></a>
 <a href="https://platzi.com/p/CabosManuel"><img alt="Platzi" src="https://img.shields.io/badge/Platzi-@CabosManuel-09e989?logo=platzi&logoColor=09e989"></a>
 <a href="https://codepen.io/cabosmanuel"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black"></a>
 </p>
@@ -105,7 +105,8 @@
 -->
 
 <!-- Wakatime Graphs -->
-![Wakatime Coding Activity Graph](https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png)
+### 🖥️ Coding Activity
+[![Wakatime Coding Activity Graph](https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png)](https://wakatime.com/@CabosManuel)
 
 <!-- PROFILE VIEWS ################################################## -->
 <p align=center>
