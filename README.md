@@ -43,6 +43,7 @@
 <!-- Skills ======================================================= -->
 ### 👨‍💻 Skills ...
 - #### 💻 Languages and Framework
+  [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#)
   [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
   [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acss)
   [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ahtml)
@@ -51,7 +52,8 @@
   [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
   [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories)
   [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
-  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ASammwyy1+language%3Asql)
+  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Asql)
+  <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](#) -->
 
 - #### 🧰 Tools
   [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
@@ -60,10 +62,12 @@
   [![DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white)](#)
   [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#)
+  [![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?logo=magento&logoColor=white)](#)
   [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories)
   [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#)
   [![SCRUM](https://custom-icon-badges.demolab.com/badge/SCRUM-10697c.svg?logo=project&logoColor=white)](https://drive.google.com/file/d/1AUhKRU0Saz4F4Kh2_8qX1B-y1Inea0md/view?usp=sharing)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white)](#)
+  [![Windows Subsystem for Linux 2](https://img.shields.io/badge/WSL_2-FCC624.svg?logo=linux&logoColor=black)](#)
 
 - #### 🔧 Applications
   [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories)
@@ -86,7 +90,6 @@
 <kbd>
   <!-- <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a> -->
   <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
-  <a href="#"><img alt="Magento 2" src="https://img.shields.io/badge/Magento_2-EE672F?logo=magento&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
