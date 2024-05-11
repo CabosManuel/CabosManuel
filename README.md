@@ -1,7 +1,6 @@
 <!-- 🟥 SMALL SHIELD/BADGE USED IN THIS DOCUMENT 🟥 -->
 <!-- https://shields.io/ - Basic and original shields (icons name https://simpleicons.org/) -->
 <!-- https://wakatime.com/share/badges - Wakatime -->
-<!-- https://github.com/gitlimes/discord-md-badge - Small badge Discord status (also works for servers) -->
 <!-- https://github.com/DenverCoder1/custom-icon-badges - More icons and upload your icons -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter - Profile views -->
 <!-- Timestamp in shield.io: https://github.com/badges/shields/issues/749-->
@@ -24,7 +23,8 @@
 <kbd>
 <a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"></a>
 <a href="https://twitter.com/CabosManuel"><img alt="Twitter" src="https://img.shields.io/badge/%40CabosManuel-1DA1F2?logo=twitter&logoColor=white"></a>
-<a href="https://discordapp.com/users/295729338933051404"><img alt="Discord shield status" src="https://dcbadge.vercel.app/api/shield/295729338933051404?style=flat&theme=discord-inverted"></a>
+<!-- Small badge Discord status (also works for servers) - https://github.com/gitlimes/discord-md-badge -->
+<a href="https://discordapp.com/users/295729338933051404"><img alt="Discord shield status" src="https://dcbadge.limes.pink/api/shield/295729338933051404?style=flat&theme=discord-inverted"></a>
 </kbd>
 </p>
 
