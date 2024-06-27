@@ -42,7 +42,7 @@
 
 <!-- Skills ======================================================= -->
 ### 👨‍💻 Skills ...
-- #### 💻 Languages and Framework
+- #### 💻 Languages, Libraries and Framework
   [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#)
   [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
   [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acss)
@@ -50,7 +50,9 @@
   [![Java](https://custom-icon-badges.demolab.com/badge/Java-ed2025.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajava&type=repositories)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories)
   [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
+  [![Node.js](https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D)](#)
   [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories)
+  [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?logo=puppeteer&logoColor=white)](#)
   [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Asql)
   <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](#) -->
@@ -90,7 +92,6 @@
 <kbd>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>
   <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D"></a>
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
 </kbd>
