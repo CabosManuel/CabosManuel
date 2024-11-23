@@ -55,7 +55,7 @@
   [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?logo=puppeteer&logoColor=white)](#)
   [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Asql)
-  <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](#) -->
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Atypescript)
 
 - #### 🧰 Tools
   [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
@@ -90,10 +90,9 @@
 <h3>🌱 I’m currently learning ...</h3>
 <p>
 <kbd>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>
+  <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
   <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
 </kbd>
 </p>
 
