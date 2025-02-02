@@ -21,7 +21,8 @@
 
 <p align=center>
 <kbd>
-<a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"></a>
+<!-- <a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"></a> -->
+<a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/cabos--manuel/-white.svg?logo=linked_in&logoColor=white"></a>
 <!--<a href="https://twitter.com/mcabos_dev"><img alt="Twitter" src="https://img.shields.io/badge/%40mcabos__dev-black?logo=x&logoColor=white"></a>-->
 <!-- Small badge Discord status (also works for servers) - https://github.com/gitlimes/discord-md-badge -->
 <a href="https://discordapp.com/users/295729338933051404"><img alt="Discord shield status" src="https://dcbadge.limes.pink/api/shield/295729338933051404?style=flat&theme=discord-inverted"></a>
@@ -64,7 +65,7 @@
   [![DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white)](#)
   [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#)
-  [![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?logo=magento&logoColor=white)](#)
+  [![Magento 2](https://custom-icon-badges.demolab.com/badge/Magento_2-EE672F.svg?logo=magento-white)](#)
   [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories)
   [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#)
   [![SCRUM](https://custom-icon-badges.demolab.com/badge/SCRUM-10697c.svg?logo=project&logoColor=white)](https://drive.google.com/file/d/1AUhKRU0Saz4F4Kh2_8qX1B-y1Inea0md/view?usp=sharing)
@@ -84,10 +85,10 @@
   [![Photoshop](https://custom-icon-badges.demolab.com/badge/Photoshop-00bff2.svg?logo=photoshop)](#)
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
   [![Virtual Box](https://img.shields.io/badge/Virtual_Box-1c3b62.svg?logo=virtualbox&logoColor=white)](#)
-  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-3e3e42.svg?logo=vs-code)](#)
 
 <!-- Currently learning ========================================= -->
-<h3>🌱 I’m currently learning ...</h3>
+<h3>🌱 I'm currently learning ...</h3>
 <p>
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
