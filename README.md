@@ -23,7 +23,7 @@
 <kbd>
 <!-- <a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"></a> -->
 <a href="https://www.linkedin.com/in/cabos-manuel/"><img  alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/cabos--manuel/-white.svg?logo=linked_in&logoColor=white"></a>
-<!--<a href="https://twitter.com/mcabos_dev"><img alt="Twitter" src="https://img.shields.io/badge/%40mcabos__dev-black?logo=x&logoColor=white"></a>-->
+<a href="https://twitter.com/mcabos_dev"><img alt="Twitter" src="https://img.shields.io/badge/%40mcabos__dev-black?logo=x&logoColor=white"></a>
 <!-- Small badge Discord status (also works for servers) - https://github.com/gitlimes/discord-md-badge -->
 <a href="https://discordapp.com/users/295729338933051404"><img alt="Discord shield status" src="https://dcbadge.limes.pink/api/shield/295729338933051404?style=flat&theme=discord-inverted"></a>
 </kbd>
@@ -36,13 +36,16 @@
 
 <!-- LEFT CONTENT TEXT ---------------------------- -->
 <!-- Currently working ============================================ -->
-### 🔭 I’m currently working on **[Avatar Global](https://www.linkedin.com/company/avatar-global/posts/?feedView=all)**
-- Backend, frontend and development maintenance for an Ecommerce store.
-- Analyze and generate report scripts in DB2 and data migration.
-- Getting started with Magento 2, store setup and configurations.
+### 🔭 I'm currently looking for a job
+Backend Developer with over 3 years of professional experience implementing ideas and requirements for Ecommerce clients using various technologies and tools. 👉 My [**LinkedIn**](https://www.linkedin.com/in/cabos-manuel/).
+
+I have worked on a variety of projects, ranging from large-scale to smaller implementations, including:
+- **IBM HCL Commerce** (Java, JSP, and SQL DB2).
+- **Adobe Commerce - Magento** (PHP, JavaScript, and MySQL).
+- **Node.js** (JavaScript, NPM, Selenium, MongoDB and Grafana).
 
 <!-- Skills ======================================================= -->
-### 👨‍💻 Skills ...
+### 👨‍💻 Skills
 - #### 💻 Languages, Libraries and Framework
   [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#)
   [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
@@ -88,7 +91,7 @@
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-3e3e42.svg?logo=vs-code)](#)
 
 <!-- Currently learning ========================================= -->
-<h3>🌱 I'm currently learning ...</h3>
+<h3>🌱 I'm currently learning</h3>
 <p>
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
