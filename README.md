@@ -97,8 +97,15 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
   <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
-  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs">
+  </a>
+  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+  </a>
+  <a href="#">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+  </a>
 </kbd>
 </p>
 
