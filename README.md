@@ -57,14 +57,15 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories)
   [![Magento 2](https://custom-icon-badges.demolab.com/badge/Magento_2-EE672F.svg?logo=magento-white)](#)
   [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
+  [![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs)](https://github.com/search?q=user%3ACabosManuel+topic%3Anestjs&type=repositories)
   [![Node.js](https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D)](#)
   [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories)
   [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)](#)
   [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?logo=puppeteer&logoColor=white)](#)
   [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white)](#)
   [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
-  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Asql)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Atypescript)
+  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Asql)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Atypescript&type=repositories)
 
 - #### 🗄️ Databases
   [![IBM DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white)](#)
@@ -97,9 +98,6 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
   <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
-  <a href="#">
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs">
-  </a>
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   </a>
