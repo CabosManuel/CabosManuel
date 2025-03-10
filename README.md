@@ -1,9 +1,11 @@
 <!-- 🟥 SMALL SHIELD/BADGE USED IN THIS DOCUMENT 🟥 -->
-<!-- https://shields.io/ - Basic and original shields (icons name https://simpleicons.org/) -->
-<!-- https://wakatime.com/share/badges - Wakatime -->
-<!-- https://github.com/DenverCoder1/custom-icon-badges - More icons and upload your icons -->
-<!-- https://github.com/antonkomarev/github-profile-views-counter - Profile views -->
-<!-- Timestamp in shield.io: https://github.com/badges/shields/issues/749-->
+<!-- Wakatime                        https://wakatime.com/share/badges -->
+<!-- Shields, basic and original     https://shields.io/ -->
+<!-- Icons for shields and color     https://simpleicons.org/ -->
+<!-- Shields, more and upload icons  https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- Profile views                   https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- Timestamp in shield.io          https://github.com/badges/shields/issues/749 -->
+
 <!-- How to make a shield.io badge with just a logo in the left side?: https://stackoverflow.com/questions/62155899/how-to-make-a-shield-io-badge-with-just-a-logo-in-the-left-side/63705827#63705827 -->
 
 <h2>
@@ -97,13 +99,22 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 <p>
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
-  <!-- <a href="#"><img alt="" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
-  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories">
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+  <!-- <a href="#"><img alt="Elasticsearch" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
+  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Aexpress&type=repositories">
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express">
   </a>
   <a href="#">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
   </a>
+  <a href="https://github.com/search?q=user%3ACabosManuel+language%3Acsharp">
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+  </a>
+  <a href="https://github.com/search?q=user%3ACabosManuel+language%3Acsharp">
+    <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5E438F.svg?logo=visualstudio&logoColor=white">
+  </a>
+  <!-- <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+  </a> -->
 </kbd>
 </p>
 
