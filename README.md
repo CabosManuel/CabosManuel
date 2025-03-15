@@ -51,6 +51,7 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories) -->
   <!-- [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#) -->
   [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acsharp)
   [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acss)
   [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ahtml)
   [![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white)]()
@@ -89,7 +90,8 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   [![Insomnia](https://img.shields.io/badge/Insomnia-5700ce.svg?logo=insomnia&logoColor=white)](#)
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
   [![Virtual Box](https://img.shields.io/badge/Virtual_Box-1c3b62.svg?logo=virtualbox&logoColor=white)](#)
-  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-3e3e42.svg?logo=vs-code)](#) *
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-3e3e42.svg?logo=vs-code)](#)
+  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5E438F.svg?logo=visualstudio&logoColor=white)](#) *
   [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/295729338933051404)
   [![Figma](https://img.shields.io/badge/Figma-e6491c.svg?logo=figma&logoColor=white)](#)
   [![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black)](#)
@@ -105,12 +107,6 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   </a>
   <a href="#">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
-  </a>
-  <a href="https://github.com/search?q=user%3ACabosManuel+language%3Acsharp">
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-  </a>
-  <a href="https://github.com/search?q=user%3ACabosManuel+language%3Acsharp">
-    <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5E438F.svg?logo=visualstudio&logoColor=white">
   </a>
   <!-- <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
