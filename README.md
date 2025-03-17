@@ -47,43 +47,46 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 
 <!-- Skills ======================================================= -->
 ### 👨‍💻 Skills
-- #### 💻 Languages, Libraries, Framework and Platforms
-  <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories) -->
+- #### 💻 Languages and Platforms
+  <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories&s=updated&o=desc) -->
   <!-- [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#) -->
+  <!-- [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#) -->
+  <!-- [![Magento 2](https://custom-icon-badges.demolab.com/badge/Magento_2-EE672F.svg?logo=magento-white)](#) -->
   [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
   [![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acsharp)
   [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acss)
   [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ahtml)
-  [![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white)]()
-  [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#)
-  [![Java](https://custom-icon-badges.demolab.com/badge/Java-ed2025.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajava&type=repositories)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories)
-  [![Magento 2](https://custom-icon-badges.demolab.com/badge/Magento_2-EE672F.svg?logo=magento-white)](#)
+  [![Java](https://custom-icon-badges.demolab.com/badge/Java-ed2025.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajava&type=repositories&s=updated&o=desc)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories&s=updated&o=desc)
   [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
-  [![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs)](https://github.com/search?q=user%3ACabosManuel+topic%3Anestjs&type=repositories)
-  [![Node.js](https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js&logoColor=43853D)](#)
-  [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories)
-  [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)](#)
-  [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?logo=puppeteer&logoColor=white)](#)
-  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white)](#)
-  [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories)
+  [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories&s=updated&o=desc)
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Asql)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Atypescript&type=repositories)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Atypescript&type=repositories&s=updated&o=desc)
+
+- #### 📚 Libraries and Frameworks
+  [![Express](https://img.shields.io/badge/Express-000000?logo=express)](https://github.com/search?q=user%3ACabosManuel+topic%3Aexpress&type=repositories&s=updated&o=desc)
+  [![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white)]()
+  [![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs)](https://github.com/search?q=user%3ACabosManuel+topic%3Anestjs&type=repositories&s=updated&o=desc)
+  [![Node.js](https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js)](https://github.com/search?q=user%3ACabosManuel+topic%3Anodejs&type=repositories&s=updated&o=desc)
+  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white)](#)
+  [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?logo=puppeteer&logoColor=white)](#)
+  [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)](#)
+  [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories&s=updated&o=desc)
 
 - #### 🗄️ Databases
   [![IBM DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white)](#)
-  [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories)
+  [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories&s=updated&o=desc)
   [![DBeaver](https://custom-icon-badges.demolab.com/badge/DBeaver-51afb5.svg?logo=dbeaver&labelColor=836d5e)](#)
   [![HeidiSQL](https://custom-icon-badges.demolab.com/badge/HeidiSQL-2f4f4e.svg?logo=heidisql)](#)
 
 - #### 🧰 Development Tools and Others
+  <!-- [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#) -->
   [![Git](https://img.shields.io/badge/Git-e96228.svg?logo=git&logoColor=white)](#)
   [![Github](https://img.shields.io/badge/Github-0d1117.svg?logo=github&logoColor=white)](https://github.com/CabosManuel)
   [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#)
-  [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white)](#)
   [![Windows Subsystem for Linux 2](https://img.shields.io/badge/WSL_2-FCC624.svg?logo=linux&logoColor=black)](#) *
-  [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories)
+  [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories&s=updated&o=desc)
   [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?logo=openai&logoColor=white)](#)
   [![Eclipse](https://img.shields.io/badge/Eclipse-2b1e52.svg?logo=eclipse&logoColor=2b1e52&labelColor=orange)](#)
   [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
@@ -102,16 +105,29 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
   <!-- <a href="#"><img alt="Elasticsearch" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
-  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Aexpress&type=repositories">
-    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express">
+  <a href="#">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
   </a>
   <a href="#">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
   </a>
-  <!-- <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories">
+  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories&s=updated&o=desc">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
-  </a> -->
+  </a>
 </kbd>
+</p>
+
+<!-- Wakatime Graphs -->
+### 🖥️ Coding Activity
+<p align=center>
+  <a href="https://wakatime.com/@CabosManuel"><img src="https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png" alt="Wakatime Coding Activity Graph"></a>
+  <a href="https://wakatime.com/@CabosManuel"><img src="https://wakatime.com/share/@CabosManuel/f6b4054c-9f4c-4645-9dc0-f18ac42bd0dd.svg" alt="Wakatime Languages Graph"></a>
+</p>
+
+<!-- PROFILE VIEWS ################################################## -->
+<p align=center>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CabosManuel&color=42b883">
+  <a href="https://ko-fi.com/kbossmc"><img alt="Ko-fi" src="https://img.shields.io/badge/buy_me_a_coffee-ff5f5f?logo=ko-fi&logoColor=white"></a>
 </p>
 
 <!-- Games -->
@@ -124,16 +140,6 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 <a href="#"><img alt="Minecraft" align=right src="https://custom-icon-badges.demolab.com/badge/Minecraft-825c3f.svg?logo=minecraft-block&labelColor=4e9c32"></a>
 </span>
 -->
-
-<!-- Wakatime Graphs -->
-### 🖥️ Coding Activity
-[![Wakatime Coding Activity Graph](https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png)](https://wakatime.com/@CabosManuel)
-
-<!-- PROFILE VIEWS ################################################## -->
-<p align=center>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CabosManuel&color=42b883">
-  <a href="https://ko-fi.com/kbossmc"><img alt="Ko-fi" src="https://img.shields.io/badge/buy_me_a_coffee-ff5f5f?logo=ko-fi&logoColor=white"></a>
-</p>
 
 <!-- Tricks Github README -->
 <!-- https://notes.aliciasykes.com/36402/github-markdown-tricks -->
