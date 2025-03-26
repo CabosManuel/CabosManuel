@@ -2,7 +2,7 @@
 <!-- Wakatime                        https://wakatime.com/share/badges -->
 <!-- Shields, basic and original     https://shields.io/ -->
 <!-- Icons for shields and color     https://simpleicons.org/ -->
-<!-- Shields, more and upload icons  https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- Custom Shields and icons        https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- Profile views                   https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- Timestamp in shield.io          https://github.com/badges/shields/issues/749 -->
 
@@ -30,20 +30,27 @@
 </kbd>
 </p>
 
-<!-- RIGHT CONTENT DISCORD PRESENCE --------------- -->
-<!-- https://github.com/Zyplos/discord-readme-badge -->
-<a href="https://discordapp.com/users/295729338933051404"><img align=right alt="Discord presence" src="https://discord-readme-badge.vercel.app/api?id=295729338933051404"></a>
-
-
-<!-- LEFT CONTENT TEXT ---------------------------- -->
 <!-- Currently working ============================================ -->
-### 🔭 I'm currently looking for a job
-Backend Developer with over 3 years of professional experience implementing ideas and requirements for Ecommerce clients using various technologies and tools.
-
-I have worked on a variety of projects, ranging from large-scale to smaller implementations, including:
-- **IBM HCL Commerce** (Java, JSP, and SQL DB2).
-- **Adobe Commerce - Magento** (PHP, JavaScript, and MySQL).
-- **Node.js** (JavaScript, NPM, Selenium, MongoDB and Grafana).
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-rows: repeat(2, auto);
+">
+  <div>
+    <h3>🔭 I'm currently looking for a job</h3>
+    <p>Backend Developer with over 3 years of professional experience implementing ideas and requirements for Ecommerce clients using various technologies and tools.</p>
+    <p>I have worked on a variety of projects, ranging from large-scale to smaller implementations, including:</p>
+    <ul>
+      <li>IBM HCL Commerce (<strong>Java, JSP, and SQL DB2</strong>).</li>
+      <li>Adobe Commerce - Magento (<strong>PHP, JavaScript, and MySQL</strong>).</li>
+      <li>Node.js (<strong>JavaScript, NPM, Selenium, MongoDB and Grafana</strong>).</li>
+    </ul>
+  </div>
+  <!-- Discord Presence: https://github.com/Zyplos/discord-readme-badge -->
+  <div align=center>
+    <a href="https://discordapp.com/users/295729338933051404"><img alt="Discord Presence" src="https://discord-readme-badge.vercel.app/api?id=295729338933051404"></a>
+  </div>
+</div>
 
 <!-- Skills ======================================================= -->
 ### 👨‍💻 Skills
@@ -105,14 +112,17 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 <kbd>
   <!--<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-1e63ee?logo=docker&logoColor=white"></a>-->
   <!-- <a href="#"><img alt="Elasticsearch" src="https://custom-icon-badges.demolab.com/badge/Elasticsearch-04bcb4.svg?logo=elasticsearch-color&labelColor=343444"></a> -->
+  <!-- <a href="#">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+  </a> -->
   <a href="#">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
   </a>
-  <a href="#">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
-  </a>
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories&s=updated&o=desc">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+  </a>
+  <a href="#">
+    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900.svg?logo=aws&logoColor=white">
   </a>
 </kbd>
 </p>
