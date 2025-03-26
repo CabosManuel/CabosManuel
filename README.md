@@ -2,7 +2,7 @@
 <!-- Wakatime                        https://wakatime.com/share/badges -->
 <!-- Shields, basic and original     https://shields.io/ -->
 <!-- Icons for shields and color     https://simpleicons.org/ -->
-<!-- Shields, more and upload icons  https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- Custom Shields and icons        https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- Profile views                   https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- Timestamp in shield.io          https://github.com/badges/shields/issues/749 -->
 
