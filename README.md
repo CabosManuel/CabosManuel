@@ -47,11 +47,9 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
 
 <!-- Skills ======================================================= -->
 ### 👨‍💻 Skills
-- #### 💻 Languages and Platforms
+- #### 💻 Languages
   <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories&s=updated&o=desc) -->
-  <!-- [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#) -->
-  <!-- [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logo=globe&logoColor=white)](#) -->
-  <!-- [![Magento 2](https://custom-icon-badges.demolab.com/badge/Magento_2-EE672F.svg?logo=magento-white)](#) -->
+  <!-- [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Asql) -->
   [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](#)
   [![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acsharp)
   [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Acss)
@@ -60,10 +58,10 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Ajavascript&type=repositories&s=updated&o=desc)
   [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Amarkdown)
   [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Aphp&type=repositories&s=updated&o=desc)
-  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Asql)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+language%3Atypescript&type=repositories&s=updated&o=desc)
 
-- #### 📚 Libraries and Frameworks
+- #### 📚 Libraries, Frameworks and Platforms
+  <!-- [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#) -->
   [![Express](https://img.shields.io/badge/Express-000000?logo=express)](https://github.com/search?q=user%3ACabosManuel+topic%3Aexpress&type=repositories&s=updated&o=desc)
   [![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white)]()
   [![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs)](https://github.com/search?q=user%3ACabosManuel+topic%3Anestjs&type=repositories&s=updated&o=desc)
@@ -72,32 +70,36 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?logo=puppeteer&logoColor=white)](#)
   [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)](#)
   [![Spring](https://img.shields.io/badge/Spring-6db33f.svg?logo=spring&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aspring&type=repositories&s=updated&o=desc)
+  [![IBM HCL Commerce 8](https://custom-icon-badges.demolab.com/badge/IBM-HCL_Commerce_8-blue.svg?logoColor=white&labelColor=black)](#)
+  [![Magento 2](https://custom-icon-badges.demolab.com/badge/Magento_2-EE672F.svg?logo=magento-white)](#)
 
 - #### 🗄️ Databases
-  [![IBM DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logo=database&logoColor=white)](#)
   [![MySQL](https://img.shields.io/badge/MySQL-00618a.svg?logo=mysql&logoColor=white&labelColor=e48e00)](https://github.com/search?q=user%3ACabosManuel+topic%3Amysql&type=repositories&s=updated&o=desc)
-  [![DBeaver](https://custom-icon-badges.demolab.com/badge/DBeaver-51afb5.svg?logo=dbeaver&labelColor=836d5e)](#)
-  [![HeidiSQL](https://custom-icon-badges.demolab.com/badge/HeidiSQL-2f4f4e.svg?logo=heidisql)](#)
+  [![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-blue.svg?logo=ssms)](#)
+  [![IBM DB2](https://custom-icon-badges.demolab.com/badge/IBM-DB2-green.svg?logoColor=white&labelColor=black)](#)
 
-- #### 🧰 Development Tools and Others
-  <!-- [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#) -->
+- #### 🧰 Tools
+  [![Figma](https://custom-icon-badges.demolab.com/badge/Figma-gray.svg?logo=figma-color)](#)
   [![Git](https://img.shields.io/badge/Git-e96228.svg?logo=git&logoColor=white)](#)
-  [![Github](https://img.shields.io/badge/Github-0d1117.svg?logo=github&logoColor=white)](https://github.com/CabosManuel)
-  [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white)](#)
-  [![Windows Subsystem for Linux 2](https://img.shields.io/badge/WSL_2-FCC624.svg?logo=linux&logoColor=black)](#) *
-  [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories&s=updated&o=desc)
-  [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?logo=openai&logoColor=white)](#)
-  [![Eclipse](https://img.shields.io/badge/Eclipse-2b1e52.svg?logo=eclipse&logoColor=2b1e52&labelColor=orange)](#)
+  [![Github](https://img.shields.io/badge/Github-0d1117.svg?logo=github&logoColor=white)](#)
   [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
+  [![HeidiSQL](https://custom-icon-badges.demolab.com/badge/HeidiSQL-2f4f4e.svg?logo=heidisql)](#)
   [![Insomnia](https://img.shields.io/badge/Insomnia-5700ce.svg?logo=insomnia&logoColor=white)](#)
+  [![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black)](#)
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-dc532a.svg?logo=ubuntu&logoColor=white)](#)
   [![Virtual Box](https://img.shields.io/badge/Virtual_Box-1c3b62.svg?logo=virtualbox&logoColor=white)](#)
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-3e3e42.svg?logo=vs-code)](#)
-  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5E438F.svg?logo=visualstudio&logoColor=white)](#) *
-  [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/295729338933051404)
-  [![Figma](https://img.shields.io/badge/Figma-e6491c.svg?logo=figma&logoColor=white)](#)
-  [![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black)](#)
+  [![Windows Subsystem for Linux 2](https://img.shields.io/badge/WSL_2-FCC624.svg?logo=linux&logoColor=black)](#)
+  <!-- [![Neovim](https://img.shields.io/badge/Neovim-2a6793?logo=neovim&logoColor=539940)](#) -->
+  <!-- [![Linux](https://img.shields.io/badge/Linux-273e6c.svg?logo=linux&logoColor=white)](#) -->
+  <!-- [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?logo=openai&logoColor=white)](#) -->
+  <!-- [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/295729338933051404) -->
+  <!-- [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Aandroid&type=repositories&s=updated&o=desc) -->
+  <!-- [![Eclipse](https://img.shields.io/badge/Eclipse-2b1e52.svg?logo=eclipse&logoColor=2b1e52&labelColor=orange)](#) -->
+  <!-- [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-3e3e42.svg?logo=visualstudio)](#) -->
+  <!-- [![SQL Server Management Studio](https://custom-icon-badges.demolab.com/badge/SQL_Server_Management_Studio-blue.svg?logo=ssms)](#) -->
+  <!-- [![DBeaver](https://custom-icon-badges.demolab.com/badge/DBeaver-51afb5.svg?logo=dbeaver&labelColor=836d5e)](#) -->
 
 <!-- Currently learning ========================================= -->
 <h3>🌱 I'm currently learning</h3>
@@ -108,9 +110,12 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   <!-- <a href="#">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
   </a> -->
-  <a href="#">
+  <!-- <a href="#">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
-  </a>
+  </a> -->
+  <!-- <a href="#">
+    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900.svg?logo=aws&logoColor=white">
+  </a> -->
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories&s=updated&o=desc">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   </a>
