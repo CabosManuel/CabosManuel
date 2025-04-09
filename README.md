@@ -15,14 +15,14 @@
 </h2>
 
 <p align=center>
-<a href="https://www.linkedin.com/in/cabos-manuel/"><img alt="Timestamp Working" src="https://custom-icon-badges.demolab.com/date/1633093200?colorB=42b883&label=Experience&logo=computer&logoColor=white"></a>
+<!-- <a href="https://www.linkedin.com/in/cabos-manuel/"><img alt="Timestamp Working" src="https://custom-icon-badges.demolab.com/date/1633093200?colorB=42b883&label=Experience&logo=computer&logoColor=white"></a> -->
+<!-- <a href="https://codepen.io/cabosmanuel"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black"></a> -->
 <a href="https://wakatime.com/@CabosManuel"><img alt="Wakatime" src="https://wakatime.com/badge/user/9e0548e0-ba44-4650-b0f1-5ece84453209.svg"></a>
-<a href="https://platzi.com/p/CabosManuel"><img alt="Platzi" src="https://img.shields.io/badge/Platzi-@CabosManuel-09e989?logo=platzi&logoColor=09e989"></a>
-<a href="https://codepen.io/cabosmanuel"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black"></a>
 </p>
 
 <p align=center>
 <kbd>
+<a href="https://platzi.com/p/CabosManuel"><img alt="Platzi" src="https://img.shields.io/badge/Platzi-@CabosManuel-09e989?logo=platzi&logoColor=09e989"></a>
 <a href="https://www.linkedin.com/in/cabos-manuel/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/cabos--manuel/-white.svg?logo=linked_in&logoColor=white"></a>
 <a href="https://twitter.com/mcabos_dev"><img alt="Twitter" src="https://img.shields.io/badge/%40mcabos__dev-black?logo=x&logoColor=white"></a>
 <!-- Small badge Discord status (also works for servers) - https://github.com/gitlimes/discord-md-badge -->
@@ -37,13 +37,13 @@
 
 <!-- LEFT CONTENT TEXT ---------------------------- -->
 <!-- Currently working ============================================ -->
-### 🔭 I'm currently looking for a job
+### 💼 I'm currently working
 Backend Developer with over 3 years of professional experience implementing ideas and requirements for Ecommerce clients using various technologies and tools.
 
 I have worked on a variety of projects, ranging from large-scale to smaller implementations, including:
-- **IBM HCL Commerce** (Java, JSP, and SQL DB2).
+- **Node.js** (JavaScript, npm, Selenium, MongoDB and Grafana).
 - **Adobe Commerce - Magento** (PHP, JavaScript, and MySQL).
-- **Node.js** (JavaScript, NPM, Selenium, MongoDB and Grafana).
+- **IBM HCL Commerce 8** (Java, JSP, and SQL DB2).
 
 <!-- Skills ======================================================= -->
 ### 👨‍💻 Skills
