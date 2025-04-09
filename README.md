@@ -119,17 +119,25 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories&s=updated&o=desc">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   </a>
-  <a href="#">
-    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900.svg?logo=aws&logoColor=white">
+  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Alaravel&type=repositories&s=updated&o=desc">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white">
   </a>
 </kbd>
 </p>
 
 <!-- Wakatime Graphs -->
 ### 🖥️ Coding Activity
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=CabosManuel&theme=dark"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=CabosManuel&theme=dark&hide_border=true"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabosManuel&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=tsql,sqlpl"> -->
+<!-- <a href="https://wakatime.com/@CabosManuel"><img src="https://wakatime.com/share/@CabosManuel/f6b4054c-9f4c-4645-9dc0-f18ac42bd0dd.svg" alt="Wakatime Languages Graph"></a> -->
 <p align=center>
-  <a href="https://wakatime.com/@CabosManuel"><img src="https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png" alt="Wakatime Coding Activity Graph"></a>
-  <a href="https://wakatime.com/@CabosManuel"><img src="https://wakatime.com/share/@CabosManuel/f6b4054c-9f4c-4645-9dc0-f18ac42bd0dd.svg" alt="Wakatime Languages Graph"></a>
+  <a href="https://wakatime.com/@CabosManuel">
+    <img src="https://wakatime.com/share/@CabosManuel/b7f49050-60b0-487d-85ab-6239a165ef0c.png">
+  </a>
+  <a href="https://wakatime.com/@CabosManuel">
+    <img src="https://wakatime.com/share/@CabosManuel/6dd5baf8-e847-4d51-9a91-221aa6adb4de.svg" alt="Wakatime Languages Graph">
+  </a>
 </p>
 
 <!-- PROFILE VIEWS ################################################## -->
