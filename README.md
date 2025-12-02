@@ -64,6 +64,7 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   <!-- [![Angular](https://img.shields.io/badge/Angular-c3002f.svg?logo=angular&logoColor=white)](#) -->
   [![Express](https://img.shields.io/badge/Express-000000?logo=express)](https://github.com/search?q=user%3ACabosManuel+topic%3Aexpress&type=repositories&s=updated&o=desc)
   [![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white)]()
+  [![Laravel](https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white)](https://github.com/search?q=user%3ACabosManuel+topic%3Alaravel&type=repositories&s=updated&o=desc)
   [![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs)](https://github.com/search?q=user%3ACabosManuel+topic%3Anestjs&type=repositories&s=updated&o=desc)
   [![Node.js](https://img.shields.io/badge/Node.js-3d3f34.svg?logo=node.js)](https://github.com/search?q=user%3ACabosManuel+topic%3Anodejs&type=repositories&s=updated&o=desc)
   [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white)](#)
@@ -118,9 +119,6 @@ I have worked on a variety of projects, ranging from large-scale to smaller impl
   </a> -->
   <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Areact&type=repositories&s=updated&o=desc">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
-  </a>
-  <a href="https://github.com/search?q=user%3ACabosManuel+topic%3Alaravel&type=repositories&s=updated&o=desc">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white">
   </a>
 </kbd>
 </p>
